@@ -1,0 +1,9 @@
+{
+    "market server ip" : "180.168.146.187",
+    "market server port" : 10010,
+    "trade server ip" : "180.168.146.187",
+    "trade server port" : 10000,
+    "broker id" : "9999",
+    "user id" : "012358",
+    "password" : "123456"
+}
